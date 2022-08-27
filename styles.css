@@ -49,9 +49,14 @@
       text-decoration: none;
   }
   .menu li:hover {
+      color:skyblue;
       font-size: 20px;
-      opacity: 50%;
-      color:grey;
+      position: relative;
+      font-language-override: normal;
+     }
+     .menu li a:hover {
+      color:skyblue;
+      font-size: 20px;
       position: relative;
       font-language-override: normal;
      }
