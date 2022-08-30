@@ -13,7 +13,7 @@
     
     nav{
       width: 95%;
-      height: 120px;
+      height: 130px;
       box-shadow:  10px 5px 10px 5px rgb(0, 3, 5) , -20px 0px 50px #359dfd;
       background-color:rgba(4, 180, 250, 0.8);
       position: fixed;
@@ -59,7 +59,55 @@
   h1{
     color: white; 
   }
+  .listita{
+    width: 40%;
+    height: auto;
+    float: left;
+	list-style: none; 
+    margin-left: 10%;
+    margin-top: 2%;
+    display: block;
+    opacity: 1.;
+    border-right: 0px ;
+}
+
+.listita li{
+	width: 25%;
+	float: left;
+	height: auto;
+  border-right: 0px ;
+	
+   margin-left: 5%;
+    transition: 0.3s; 
+    margin-bottom: 10%;
+    transition-timing-function: cubic-bezier(.83, .93, 0, .99);
+	} 
+
+.listita li:hover{
+   transform: scale(1.1);
+   z-index: 100;  
+    opacity: 0.5;
+    
+    
+}
+.renglonred{
+  width: 80%;
+  height: auto;
+  padding-left: 2%;
+  margin-top: 1%;
+  position: left;
+
+}
+.iconored{
+  width: 60%;
+  height: auto;
+  position: left;
+  padding-left: 2%;
+  margin-bottom: 15%;
   
+
+}
+
 
 /*galeria*/
 
