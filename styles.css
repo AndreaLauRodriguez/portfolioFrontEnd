@@ -42,8 +42,15 @@
     width:15%;
     height: auto;
     float:right;
-   padding-right: 2%;  
+   padding-right: 1%;  
    padding-top: 3%;
+}
+.iconoap{
+  width:10%;
+  height: auto;
+  float:right;
+ padding-right: 2%;  
+ padding-top: 2%;
 }
   h4{
     color:white;
