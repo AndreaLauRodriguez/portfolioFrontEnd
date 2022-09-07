@@ -1,0 +1,56 @@
+.espacio{
+    width: 100%;
+    height 200px;
+}
+ 
+.marcas{
+    width: 80%;
+    margin-left: 10%;
+    height: auto;
+    font-family: bellerose ;
+    background: lightblue;
+    color: white;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    float:left;
+    text-align: center;
+    font-size: 30px;
+}
+.seccionToggle{  
+	display: none;
+	height: auto;
+	background: lightblue;
+	color: #001F3F;
+	padding: 50px 0;
+	text-align: center;}
+
+
+
+button{
+	background: none;
+	font-size: 20px;
+    color:white;
+	font-weight: bold;
+	padding: 20px 40px;
+	display: inline-block;
+	border: 5px solid #001F3F;
+	transition: .3s all;}
+
+buttom:hover{ 
+	border: 5px solid white;
+	color: lightblue;}
+ 
+.btn-toggle{ 
+	height: auto;
+	line-height: 50px;
+	font-size: 24px;
+	font-weight: bold;
+	color: white;
+	display: block;
+	background: lightblue;
+	text-align: center;
+	text-decoration: none;}
+
+.btn-toggle:hover{ 
+	text-decoration: none;}
+ 
