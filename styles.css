@@ -168,11 +168,12 @@ h5{
 }
 #info-academica{
   width: 100%;
-  height: 15%;
+  height: 100%;
   background: rgb(17, 160, 226, 0.7);
   font-size: 20px;
   padding-bottom: 4%;
- 
+ margin-top: 10%;
+ margin-bottom: 10%;
 }
 
 #info-personal{
@@ -181,6 +182,8 @@ h5{
   background: rgb(11, 53, 77, 0.7);
    font-size: 20px;
   padding-bottom: 4%;
+  margin-top: 10%;
+ margin-bottom: 10%;
 }
   #info-laboral{
     width: 100%;
@@ -189,6 +192,8 @@ h5{
     font-size: 20px;
     padding-bottom: 4%;
     color:blanchedalmond;
+    margin-top: 10%;
+ margin-bottom: 10%;
 }
 #contacto{
   width: 40%;
@@ -201,6 +206,9 @@ h5{
   padding-top: 4%;;
   padding-left: 10%;
   padding-right: 10%;
+  
+  margin-top: 20%;
+ margin-bottom: 3%;
 }
 
 
