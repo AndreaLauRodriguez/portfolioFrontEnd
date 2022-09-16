@@ -8,7 +8,7 @@
       height: auto;
       background-image: url("images/1019837.jpg"); ;
       
-      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-family: 'Roboto';
       height: auto;}
     
     nav{
@@ -33,6 +33,23 @@
     width: 100%;
     height: 5%;
   }
+    
+  .largobis{
+    width: 100%;
+    height: auto;
+    margin-top: 1%;
+    float:left;
+    text-align: center;
+    position:relative;
+    background: #04021a;
+  
+    margin-bottom: 1%;
+    color:white;
+    font-family: roboto;
+     font-size: 20px;
+    padding-bottom: 1%;
+    z-index: 100;
+}
   .identidad{
     width: 45%;
     height: 90%;
